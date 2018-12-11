@@ -1,19 +1,19 @@
 {
   "main.css": "/static/css/main.17c48ad7.chunk.css",
-  "main.js": "/static/js/main.2c94a933.chunk.js",
-  "main.js.map": "/static/js/main.2c94a933.chunk.js.map",
+  "main.js": "/static/js/main.38523553.chunk.js",
+  "main.js.map": "/static/js/main.38523553.chunk.js.map",
   "static/css/1.01657cc8.chunk.css": "/static/css/1.01657cc8.chunk.css",
   "static/js/1.3ee26b22.chunk.js": "/static/js/1.3ee26b22.chunk.js",
   "static/js/1.3ee26b22.chunk.js.map": "/static/js/1.3ee26b22.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/semantic.min.css": "/static/media/brand-icons.a1a749e8.svg",
+  "static/media/semantic.min.css": "/static/media/brand-icons.c5ebe0b3.ttf",
   "static/media/style.scss": "/static/media/PressStart2P-Regular.ccb1dfce.ttf",
   "static/media/favicon.ico": "/static/media/favicon.57a88d12.ico",
   "static/media/coin.gif": "/static/media/coin.305862fd.gif",
   "static/css/main.17c48ad7.chunk.css.map": "/static/css/main.17c48ad7.chunk.css.map",
   "static/css/1.01657cc8.chunk.css.map": "/static/css/1.01657cc8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.a13d60e5e41756d766d78b44c2df4086.js": "/precache-manifest.a13d60e5e41756d766d78b44c2df4086.js",
+  "precache-manifest.6bb60bff513eb7c5adc9edee11a50d62.js": "/precache-manifest.6bb60bff513eb7c5adc9edee11a50d62.js",
   "service-worker.js": "/service-worker.js"
 }
