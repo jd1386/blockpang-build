@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.17c48ad7.chunk.css",
-  "main.js": "/static/js/main.3a673415.chunk.js",
-  "main.js.map": "/static/js/main.3a673415.chunk.js.map",
+  "main.js": "/static/js/main.5f9deca8.chunk.js",
+  "main.js.map": "/static/js/main.5f9deca8.chunk.js.map",
   "static/css/1.01657cc8.chunk.css": "/static/css/1.01657cc8.chunk.css",
   "static/js/1.733cb4db.chunk.js": "/static/js/1.733cb4db.chunk.js",
   "static/js/1.733cb4db.chunk.js.map": "/static/js/1.733cb4db.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/style.scss": "/static/media/PressStart2P-Regular.ccb1dfce.ttf",
   "static/media/favicon.ico": "/static/media/favicon.57a88d12.ico",
   "static/media/coin.gif": "/static/media/coin.305862fd.gif",
-  "static/css/1.01657cc8.chunk.css.map": "/static/css/1.01657cc8.chunk.css.map",
   "static/css/main.17c48ad7.chunk.css.map": "/static/css/main.17c48ad7.chunk.css.map",
+  "static/css/1.01657cc8.chunk.css.map": "/static/css/1.01657cc8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.e1d375ee84b9aaad5a816f41de5e8eec.js": "/precache-manifest.e1d375ee84b9aaad5a816f41de5e8eec.js",
+  "precache-manifest.32b18fefc165caf503807df7108c9a00.js": "/precache-manifest.32b18fefc165caf503807df7108c9a00.js",
   "service-worker.js": "/service-worker.js"
 }
